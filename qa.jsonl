@@ -1,0 +1,11 @@
+{"image_path": "receipt_00000.png", "question": "What is the total payment amount?", "expected": "1591600"}
+{"image_path": "receipt_00000.png", "question": "How much was spent on hot tea in total ?", "expected": "44000"}
+{"image_path": "receipt_00000.png", "question": "What is the unit price of hot tea?", "expected": "22000"}
+{"image_path": "receipt_00000.png", "question": "How much does the ice tea cost?", "expected": "18000"}
+{"image_path": "receipt_00000.png", "question": "How much does the free ice tea cost?", "expected": "0"}
+{"image_path": "receipt_00000.png", "question": "How many Bbk Panggang Sam was bought?", "expected": "3"}
+{"image_path": "receipt_00000.png", "question": "How much is the service fee?", "expected": "10950"}
+{"image_path": "receipt_00000.png", "question": "If a 10% tax is applied on the subtotal, what will the total payment now be?", "expected": "1726200"}
+{"image_path": "receipt_00026.png", "question": "What percentage of tax was applied?", "expected": "10"}
+{"image_path": "receipt_00026.png", "question": "How much cash was given?", "expected": "50.5"}
+{"image_path": "receipt_00026.png", "question": "How much was the change given back?", "expected": "34"}
